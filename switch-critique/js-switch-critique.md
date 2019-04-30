@@ -1,4 +1,3 @@
-# Refactoring Javascript Switch statements with Object Literals
 
 ## Why are Switch Statements so useful in Javascript
 
